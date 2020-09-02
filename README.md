@@ -5,4 +5,4 @@
 <br>
 
 ## How it looks:
-<img src='images/budgeting.jpg'>
+![Budgeting](/images/budgeting.jpg)
