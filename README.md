@@ -4,5 +4,5 @@
 
 <br>
 
-## How it looks:
+## How it looks:  
 ![Budgeting](/images/budgeting.jpg)
