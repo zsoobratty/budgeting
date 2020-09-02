@@ -19,8 +19,9 @@ const AddTransaction = () => {
         const newIncomeTransaction = {
             id: uuidv4(),
             incomeText,
-            incomeAmount
+            incomeAmount: incomeAmount * 1
         }
+        console.log(newIncomeTransaction)
     }
 
     return (
